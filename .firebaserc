@@ -1,6 +1,7 @@
 {
   "projects": {
-    "npm run build": "angular-firebase-demo-528b1"
+    "npm run build": "angular-firebase-demo-528b1",
+    "default": "angular-firebase-demo-528b1"
   },
   "targets": {},
   "etags": {}
